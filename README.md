@@ -1,2 +1,2 @@
 # Python
-learning Python
+Learning Python
